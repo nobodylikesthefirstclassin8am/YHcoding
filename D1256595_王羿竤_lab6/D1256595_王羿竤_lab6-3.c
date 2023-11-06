@@ -33,7 +33,7 @@ for (r=0;r<10;r++){
 	}
 		printf("\t");		
 		
-	for(b=10;b>=0;b--){			//D
+	for(b=9;b>=0;b--){			//D
 		if(b>r){
 			printf(" ");
 		}

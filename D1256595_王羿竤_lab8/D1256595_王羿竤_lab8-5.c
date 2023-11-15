@@ -22,7 +22,7 @@ void tri(int a,char b){
         	printf("%c",b);
         }
         
-		for(j=1;j<=a-i;j++){
+	for(j=1;j<=a-i;j++){
         	printf(" ");
         }
     printf("\n");
